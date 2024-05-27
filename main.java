@@ -9,7 +9,8 @@ public class main {
                 "Name: " + name + "\n" +
                 "Family: " + family + "\n" +
                 "Age: "+ age + "\n" +
-                "Gender:  "+ gender + "\n"+ Mona);
+                "Gender:  "+ gender + "\n"+
+                Mona);
 
     }
 }
