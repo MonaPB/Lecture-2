@@ -1,19 +1,15 @@
 public class main {
     public static void main(String[] args) {
-
-        long age=30;
-        long height=1300004546874534L;
-        long a= Long.MAX_VALUE;
-        System.out.println(a);
-
-        double big=12523.265564;
-        System.out.println(big);
-
-        boolean mona=true;
-        boolean mina=false;
-        System.out.println(mona);
-
-        char n = 'n';
+        String name = "Mona";
+        String family = "Pourbidehei";
+        int age = 29;
+        String gender = "Female";
+        boolean Mona=true;
+        System.out.println("Personal Information"+"\n"+
+                "Name: " + name + "\n" +
+                "Family: " + family + "\n" +
+                "Age: "+ age + "\n" +
+                "Gender:  "+ gender + "\n"+ Mona);
 
     }
 }
